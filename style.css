@@ -1,0 +1,38 @@
+
+#div1{
+	height: 150px;
+	width: 200px;
+	color: white;
+	background-color: red;
+	display: inline-block;
+	margin-left: 7px;
+	position: sticky;
+	top: 0px;
+}
+/*#div2{
+	height: 150px;
+	width: 200px;
+	color: white;
+	background-color: green;
+	display: inline-block;
+	margin-left: 7px;
+
+	position: sticky;
+	left: 8px;
+	top: 8px;
+}
+#div3{
+	height: 150px;
+	width: 200px;
+	color: white;
+	background-color: blue;
+	display: inline-block;
+	margin-left: 7px;
+
+	position: sticky;
+	top: 25px;*/
+}
+/*#child{
+	position: absolute;
+	top: 4px;
+}*/
